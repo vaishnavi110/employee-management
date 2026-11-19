@@ -3,7 +3,7 @@ package com.company;
 public class Employee {
 
     public String getEmployeeName() {
-        return "Vaishnavi";
+        return "Puja";
     }
 
     public int getEmployeeSalary() {
